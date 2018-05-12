@@ -1,0 +1,32 @@
+_repo: The-Recipe-for-Diamonds_31083
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hyne, Charles John Cutcliffe Wright
+    aliases:
+    - Cutcliffe-Hyne, C. J.
+    - Hyne, C. J. Cutcliffe (Charles John Cutcliffe)
+    - Hyne, Cutcliffe
+    - Cutcliffe-Hyne, Charles John
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '4423'
+    url: http://www.gutenberg.org/2009/agents/4423
+description: ''
+gutenberg_issued: '2010-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: The Recipe for Diamonds
+url: http://www.gutenberg.org/ebooks/31083
